@@ -36,7 +36,7 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
       <td style="width: 25%; height: 20px; text-align: center;">C, C++, JavaScript, Node.JS, SQL,<br>MQTT, HTTP/HTTPS</td>
     </tr>
     <tr style="height: 20px;">
-      <td style="width: 14.7676%; height: 20px; text-align: center;">Education</td>
+      <td style="width: 14.7676%; height: 20px; text-align: center;"><b>Current<br>Education</b></td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2021.09 ~</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">UW Computer Engineering Co-op</td>
       <td style="width: 25%; height: 20px; text-align: center;">&nbsp;</td>
