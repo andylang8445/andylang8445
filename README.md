@@ -49,7 +49,7 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Web<br>Development</td>
-      <td style="width: 15.465%; height: 20px; text-align: center;">2020.11<br>~ </td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2020.11 ~</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">Logic Gate Project</td>
       <td style="width: 25%; height: 20px; text-align: center;">Node.JS, HMTL, CSS, JavaScript, Express,<br>AWS, GCP, SQL, PHP</td>
     </tr>
