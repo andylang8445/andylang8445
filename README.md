@@ -12,21 +12,15 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
 <table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
   <tbody>
     <tr style="height: 20px;">
-      <td style="width: 14.7676%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b> </td>
-      <td style="width: 15.465%; height: 20px; text-align: center;font-weight: 800;"><b>Date</b></td>
-      <td style="width: 44.7674%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
-      <td style="width: 25%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
+      <td style="width: 14.7676%; height: 20px; text-align: center;">Full Stack<br>Development</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2020.10<br>~ 2021.06</td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;">Constructed Communication and<br> attendance management platform</td>
+      <td style="width: 25%; height: 20px; text-align: center;">Node.JS, HMTL, CSS, JavaScript, Express,<br>AWS Lightsail, GCP, SQL, PHP,<br>CentOS, HTTPS</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Special Education</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2015.03<br>~ 2017.02</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">강서교육청 정보영재원</td>
-      <td style="width: 25%; height: 20px; text-align: center;">&nbsp;</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14.7676%; height: 20px; text-align: center;">Special Education</td>
-      <td style="width: 15.465%; height: 20px; text-align: center;">2017.03<br>~ 2018.02</td>
-      <td style="width: 44.7674%; height: 20px; text-align: center;">선린 인터넷 고등학교 정보영재원</td>
       <td style="width: 25%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
@@ -69,6 +63,7 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white"/>  
 </div>
 
 <div style = "display: flex; ">
@@ -76,6 +71,9 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101"/>  
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white1"/>  
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/>  
 </div>
 
 <div style = "display: flex; margin-left: 90px">
@@ -92,7 +90,6 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
 
 ---
 
-
 <h3 align = "center">:paperclip:Contact Link:paperclip:<br><br></h3>
 <div style = "display: flex; align-item : center; justify-item: center" align = "center">
 <a href="mailto:hongjun.yunuw@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -100,7 +97,23 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
 <a href="https://www.instagram.com/h0ng_yun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
 
-<br><br>
+---
+
+<h3 align = "center">Environment<br></h3>
+<div style = "display: flex; margin-left: 90px">
+  <span style = "margin-left: 90px; font-weight: 800;">:pushpin: IDE : </span>
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green"/>  
+  <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/CLion-black?style=flat-square&logo=clion&logoColor=white"/>  
+</div><div style = "display: flex; margin-left: 90px">
+  <span style = "margin-left: 90px; font-weight: 800;">:pushpin: OS : </span>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0"/> 
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>  
+</div>
 
 ---
 
