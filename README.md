@@ -12,6 +12,12 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
 <table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
   <tbody>
     <tr style="height: 20px;">
+      <td style="width: 14.7676%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b> </td>
+      <td style="width: 15.465%; height: 20px; text-align: center;font-weight: 800;"><b>Date</b></td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
+      <td style="width: 25%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
+    </tr>
+    <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Co-op</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2019.10<br>~ 2020.01</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">Software Developer Co-op at<br>The Hacksmith</td>
