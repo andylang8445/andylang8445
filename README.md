@@ -3,8 +3,8 @@
 <h3 align = "center"> 💼 My Career<br><br> </h3>
 <div align = "center">
 Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
-:purple_heart: University of Waterloo in Canada<br>
-🇰🇷: From Korea<br>
+:canada: University of Waterloo in Canada<br>
+:kr: From Korea<br>
 :computer: Computer Engineering (ECE)<br>
 📆: Class of 26'<br>
 </div>
