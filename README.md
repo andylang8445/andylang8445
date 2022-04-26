@@ -93,7 +93,7 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
 <h3 align = "center">:paperclip:Contact Link:paperclip:<br><br></h3>
 <div style = "display: flex; align-item : center; justify-item: center" align = "center">
 <a href="mailto:hongjun.yunuw@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://andylang8445.github.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://andylang8445.github.io/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://www.instagram.com/h0ng_yun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
 
