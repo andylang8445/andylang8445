@@ -57,7 +57,7 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
       <td style="width: 14.7676%; height: 20px; text-align: center;">Co-op</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2023.06.22 ~</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">Escape Platforms Inc.<br>Software Backend Developer</td>
-      <td style="width: 25%; height: 20px; text-align: center;">C, C++, Python, CARLA</td>
+      <td style="width: 25%; height: 20px; text-align: center;">AWS, NodeJS, DynamoDB, Lambda, AppSync</td>
     </tr>
   </tbody>
 </table>
