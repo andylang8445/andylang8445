@@ -55,9 +55,15 @@ Hello I'm Hongjun (Andy) Yun:raised_hands:<br>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Co-op</td>
-      <td style="width: 15.465%; height: 20px; text-align: center;">2023.06.22 ~</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2023.06.22<br>~ 2023.08.31</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">Escape Platforms Inc.<br>Software Backend Developer</td>
       <td style="width: 25%; height: 20px; text-align: center;">AWS, NodeJS, DynamoDB, Lambda, AppSync</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14.7676%; height: 20px; text-align: center;">Co-op</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2024.01.15 ~</td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;">Korea Fund Ratings<br>Student Intern</td>
+      <td style="width: 25%; height: 20px; text-align: center;">Python, Machine Learning, MS Office suite, Documentation,<br>Communication, Data validation</td>
     </tr>
   </tbody>
 </table>
